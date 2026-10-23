@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jockerwink.com/sitemap.xml

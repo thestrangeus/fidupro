@@ -1,0 +1,13 @@
+{
+  "version": "1.0.1",
+  "url": "https://github.com/jockerwink/fidupr/releases/download/fido1/client.exe",
+  "sha256": "16b7dce04c47dcc374cfd2cf74a1f987a429be6ade48dd7f1de8815c3de88fd2",
+  "notes": "Correctifs",
+  "controle": {
+    "schema": 1,
+    "sequence": 1,
+    "publie": "2026-10-23",
+    "regles": [],
+    "signature": "eOVwnESl47enFwAtqvxyDUaMtYItTpUlJQyP0b9AZ4r3pMXwcFIcX7HCKpdMsQKJ37D8z4B3hxDHj72qRZ2PAw=="
+  }
+}
